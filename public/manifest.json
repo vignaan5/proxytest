@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "short_name": "Gyanu Cheat",
-  "name": "Gyanu Cheat Extension",
+  "short_name": "Gyanu",
+  "name": "Gyanu Extension",
   "version": "1.0",
   "description": "to generate rubrika answer press Ctrl + Left mouse button on the focused  text input and wait for the magic",
   "icons": {
